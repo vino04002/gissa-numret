@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\fsr\bin\Debug\net5.0\fsr.exe
+C:\Users\Admin\Desktop\fsr\bin\Debug\net5.0\fsr.deps.json
+C:\Users\Admin\Desktop\fsr\bin\Debug\net5.0\fsr.runtimeconfig.json
+C:\Users\Admin\Desktop\fsr\bin\Debug\net5.0\fsr.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\fsr\bin\Debug\net5.0\fsr.dll
+C:\Users\Admin\Desktop\fsr\bin\Debug\net5.0\ref\fsr.dll
+C:\Users\Admin\Desktop\fsr\bin\Debug\net5.0\fsr.pdb
+C:\Users\Admin\Desktop\fsr\obj\Debug\net5.0\fsr.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\fsr\obj\Debug\net5.0\fsr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\fsr\obj\Debug\net5.0\fsr.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\fsr\obj\Debug\net5.0\fsr.AssemblyInfo.cs
+C:\Users\Admin\Desktop\fsr\obj\Debug\net5.0\fsr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\fsr\obj\Debug\net5.0\fsr.dll
+C:\Users\Admin\Desktop\fsr\obj\Debug\net5.0\ref\fsr.dll
+C:\Users\Admin\Desktop\fsr\obj\Debug\net5.0\fsr.pdb
+C:\Users\Admin\Desktop\fsr\obj\Debug\net5.0\fsr.genruntimeconfig.cache
